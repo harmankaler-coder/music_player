@@ -1,16 +1,34 @@
-# music_player
+🎵 Music Player – Flutter App
 
-A new Flutter project.
+A modern and lightweight music player app built using Flutter.
+This app lets users browse, play, and control audio files with a clean UI and smooth performance.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🎶 Play, pause, stop, and skip tracks
 
-A few resources to get you started if this is your first Flutter project:
+📂 Browse audio files from local storage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔁 Loop, shuffle & playlist support (optional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Clean and responsive UI
+
+⚡ Fast performance using Flutter
+
+📱 Works on Android (iOS optional)
+
+🛠️ Tech Stack
+
+Flutter
+
+Dart
+
+just_audio
+
+Supabase
+
+Hive (for local storage)
+
+Riverpod
+
+Android SDK
